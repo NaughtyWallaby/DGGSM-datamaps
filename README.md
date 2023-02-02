@@ -15,7 +15,7 @@ Y debe ser reemplazado por la ultima versión confirmada como funcional:
 
 
 ```html
-<iframe src="https://kepler.gl/#/demo?mapUrl=https://drive.google.com/file/d/1ZDJQpvlF5eYFjMEuxPWIT0e4xkMDNyTW/view?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="1200px" allowfullscreen></iframe>
+<iframe src="https://kepler.gl/#/demo?mapUrl=https://raw.githubusercontent.com/NaughtyWallaby/DGGSM-datamaps/main/keplertest2.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="1200px" allowfullscreen></iframe>
 ```
 
 Primero se llama a Kepler, que luego abre una JSON o HTML en la segundo parte de la URL.
